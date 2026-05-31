@@ -1,9 +1,9 @@
-# Imagica ✨
+# ImaGen ✨
 **Unleash Your Creativity – Turn Text into Stunning Visuals Instantly!**
 
 ![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-18-green?logo=node.js) ![MongoDB](https://img.shields.io/badge/MongoDB-5.0-green?logo=mongodb) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3-blue?logo=tailwind-css) ![Render](https://img.shields.io/badge/Render-Deployed-blueviolet)
 
-**Imagica** is an AI-powered platform that transforms your text prompts into beautiful, high-quality images in seconds. Whether you're a designer, developer, or content creator, Imagica helps you visualize your ideas effortlessly.
+**ImaGen** is an AI-powered platform that transforms your text prompts into beautiful, high-quality images in seconds. Whether you're a designer, developer, or content creator, Imagica helps you visualize your ideas effortlessly.
 
 ---
 
@@ -56,7 +56,7 @@
 
 ## 📁 Project Structure
 
-Imagica/
+ImaGen/
 │
 ├── client/ # React frontend
 │ ├── src/
@@ -74,7 +74,7 @@ Imagica/
 │
 └── README.md
 
-🎯 Why Imagica?
+🎯 Why ImaGen?
 
 Fast, AI-driven creative output.
 Secure authentication & data management.
@@ -84,6 +84,6 @@ Ideal for designers, content creators, and developers.
 
 📫 Contact
 
-Developer: Parv Chaturvedi
-GitHub: https://github.com/ParvChaturvedi
-Email: parvchaturvedi2005@gmail.com
+Developer: Love Singh
+GitHub: https://github.com/l0vesingh
+Email: lovesingh150104@gmail.com
