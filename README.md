@@ -1,9 +1,9 @@
-# ImaGen ✨
+# Imagify ✨
 **Unleash Your Creativity – Turn Text into Stunning Visuals Instantly!**
 
 ![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-18-green?logo=node.js) ![MongoDB](https://img.shields.io/badge/MongoDB-5.0-green?logo=mongodb) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3-blue?logo=tailwind-css) ![Render](https://img.shields.io/badge/Render-Deployed-blueviolet)
 
-**ImaGen** is an AI-powered platform that transforms your text prompts into beautiful, high-quality images in seconds. Whether you're a designer, developer, or content creator, Imagica helps you visualize your ideas effortlessly.
+**Imagify** is an AI-powered platform that transforms your text prompts into beautiful, high-quality images in seconds. Whether you're a designer, developer, or content creator, Imagica helps you visualize your ideas effortlessly.
 
 ---
 
@@ -56,7 +56,7 @@
 
 ## 📁 Project Structure
 
-ImaGen/
+Imagify/
 │
 ├── client/ # React frontend
 │ ├── src/
@@ -74,7 +74,7 @@ ImaGen/
 │
 └── README.md
 
-🎯 Why ImaGen?
+🎯 Why Imagify?
 
 Fast, AI-driven creative output.
 Secure authentication & data management.
